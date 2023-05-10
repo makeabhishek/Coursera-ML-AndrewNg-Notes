@@ -1,28 +1,28 @@
-**斯坦福大学2014（吴恩达）机器学习教程中文笔记**
+**Stanford University 2014 (Wu Enda) Machine Learning Course Chinese Notes**
 
-课程地址：<https://www.coursera.org/course/ml>
+course address：<https://www.coursera.org/course/ml>
 
-**Machine Learning**(机器学习)是研究计算机怎样模拟或实现人类的学习行为，以获取新的知识或技能，重新组织已有的知识结构使之不断改善自身的性能。它是人工智能的核心，是使计算机具有智能的根本途径，其应用遍及人工智能的各个领域，它主要使用归纳、综合而不是演译。在过去的十年中，机器学习帮助我们自动驾驶汽车，有效的语音识别，有效的网络搜索，并极大地提高了人类基因组的认识。机器学习是当今非常普遍，你可能会使用这一天几十倍而不自知。很多研究者也认为这是最好的人工智能的取得方式。在本课中，您将学习最有效的机器学习技术，并获得实践，让它们为自己的工作。更重要的是，你会不仅得到理论基础的学习，而且获得那些需要快速和强大的应用技术解决问题的实用技术。最后，你会学到一些硅谷利用机器学习和人工智能的最佳实践创新。
+**Machine Learning** (Machine Learning) is the study of how computers simulate or implement human learning behaviors to acquire new knowledge or skills, and reorganize existing knowledge structures to continuously improve their own performance. It is the core of artificial intelligence and the fundamental way to make computers intelligent. Its application pervades all fields of artificial intelligence. It mainly uses induction and synthesis instead of deduction. Over the past decade, machine learning has helped us drive self-driving cars, perform efficient speech recognition, perform efficient web searches, and dramatically improve our understanding of the human genome. Machine learning is so prevalent today that you probably use it dozens of times a day without knowing it. Many researchers also believe that this is the best way to obtain artificial intelligence. In this class, you'll learn the most effective machine learning techniques and gain practice putting them to work for yourself. What's more, you'll learn not only the theoretical foundations, but also the practical techniques that require fast and powerful application of techniques to solve problems. Finally, you'll learn about some of Silicon Valley's best practice innovations utilizing machine learning and artificial intelligence.
 
-本课程提供了一个广泛的介绍机器学习、数据挖掘、统计模式识别的课程。主题包括：
+This course provides a broad introduction to machine learning, data mining, and statistical pattern recognition. Topics include：
 
-（一）监督学习（参数/非参数算法，支持向量机，核函数，神经网络）。
+（一）Supervised learning (parametric/nonparametric algorithms, support vector machines, kernel functions, neural networks)。
 
-（二）无监督学习（聚类，降维，推荐系统，深入学习推荐）。
+（二）Unsupervised learning (clustering, dimensionality reduction, recommendation system, deep learning recommendation)。
 
-（三）在机器学习的最佳实践（偏差/方差理论；在机器学习和人工智能创新过程）。本课程还将使用大量的案例研究，您还将学习如何运用学习算法构建智能机器人（感知，控制），文本的理解（**Web**搜索，反垃圾邮件），计算机视觉，医疗信息，音频，数据挖掘，和其他领域。
+（三）Best Practices in Machine Learning (Bias/Variance Theory; Innovation Processes in Machine Learning and AI). The course will also use extensive case studies and you will also learn how to use learning algorithms to build intelligent robots (perception, control), understanding of text (**Web** search, anti-spam), computer vision, medical informatics, audio , data mining, and other fields.
 
-本课程需要10周共18节课，相对以前的机器学习视频，这个视频更加清晰，而且每课都有**ppt**课件，推荐学习。
+This course requires a total of 18 lessons in 10 weeks. Compared with the previous machine learning videos, this video is clearer, and each lesson has **ppt** courseware, which is recommended for learning.
 
-本人2014年下半年开始翻译本课程字幕，并写了课程的中文笔记。笔记被下载了几万次，应该帮助了不少人，也有很多人一直在帮助我，现在我把笔记的**word**原稿和**markdown**原稿分享给大家。
+I started to translate the subtitles of this course in the second half of 2014, and wrote the Chinese notes of the course. The notes have been downloaded tens of thousands of times, which should have helped many people, and many people have been helping me. Now I share the **word** and **markdown** manuscripts of the notes with you.
 
-**markdown**的笔记和课程中英文字幕我将放在**github**，希望大家能继续完善。为方便数学公式的在线显示，在线观看的是**html**文件，公式已经被转为图片，公式源码在**markdown**文件。
+I will put **markdown** notes and course Chinese and English subtitles on **github**, I hope everyone can continue to improve. In order to facilitate the online display of mathematical formulas, the **html** file is viewed online, the formula has been converted into a picture, and the source code of the formula is in the **markdown** file。
 
-**最后想对各位朋友说：**
-**赠人玫瑰，手有余香！**
-**在人工智能的道路上，你不是一个人在战斗！**
+**Finally, I want to say to my friends：**
+**Gifts of roses, hand a fragrance！**
+**On the road of artificial intelligence, you are not alone！**
 
-黄海广
+Huang Haiguang
 
 2018-3-26 夜
 
