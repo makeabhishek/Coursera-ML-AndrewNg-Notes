@@ -24,340 +24,330 @@ I will put **markdown** notes and course Chinese and English subtitles on **gith
 
 Huang Haiguang
 
-2018-3-26 夜
+2018-3-26
+[My Zhihu](https://www.zhihu.com/people/fengdu78/activities)
 
-微信公众号：机器学习初学者 ![gongzhong](/images/gongzhong.jpg)
-知识星球：黄博的机器学习圈子![xingqiu](/images/zhishixingqiu1.jpg)
+reference：https://www.coursera.org/course/ml Machine Learning Open Course
 
-[我的知乎](https://www.zhihu.com/people/fengdu78/activities)
-
-参考：https://www.coursera.org/course/ml 机器学习公开课
-
-https://mooc.guokr.com/note/12/ [小小人_V](https://mooc.guokr.com/user/2133483357/) 的个人笔记
-
-《统计学习方法》李航
+"Statistical Learning Methods" Li Hang
     
-《机器学习课》邹博
+"Machine Learning Class" Zou Bo
 
 ## 备注：吴恩达老师的深度学习课（deepLearning.ai）的笔记地址：https://github.com/fengdu78/deeplearning_ai_books
 
 -----------------------
 
-文件夹说明：
+Folder description:
 
-**docx**：笔记的**word**版本
+**docx**: **word** version of notes
 
-**markdown**：笔记的**markdown**版本
+**markdown**: **markdown** version of notes
 
-**html**：笔记的**html**版本
+**html**: the **html** version of the note
 
-**images**：笔记的图片
+**images**: pictures of notes
 
-**ppt**：课程的原版课件
+**ppt**: The original courseware of the course
 
-**srt**：课程的中英文字幕（**mp4**文件需要在百度云下载，大家可以用记事本或者字幕编辑软件来编辑字幕，共同完善，百度云链接：https://pan.baidu.com/s/1h8QjqBlOm0Exh7orm9teMQ 密码：d3we，下载后解压）
+**srt**: The Chinese and English subtitles of the course (**mp4** files need to be downloaded from Baidu Cloud, you can use Notepad or subtitle editing software to edit subtitles and improve them together, Baidu Cloud link: https://pan. baidu.com/s/1h8QjqBlOm0Exh7orm9teMQ Password: d3we, unzip after downloading)
 
-**code**：课程的**python**代码（有一部分是国外大牛写的）
+**code**: **python** code of the course (some of them are written by foreign experts)
 
-机器学习视频下载链接：https://pan.baidu.com/s/1raoOPOg 密码：48m8，包含视频和字幕，下载后解压，建议用**potplayer**播放，此视频与**mp4**一致。
+Machine learning video download link: https://pan.baidu.com/s/1raoOPOg Password: 48m8, including video and subtitles, unzip after downloading, it is recommended to use **potplayer** to play, this video is consistent with **mp4** .
 
-[笔记在线阅读](http://www.ai-start.com/ml2014)
+[Notes online reading] (http://www.ai-start.com/ml2014)
 
-笔记pdf版本下载 ：见**github**根目录。
+Note pdf version download: see **github** root directory.
 
-机器学习qq群：865189078（我们有8个群，加过一个就不需要加了）
+Machine learning qq group: 865189078 (we have 8 groups, if you add one, you don’t need to add it)
 
 -----------------------
 
-# 机器学习教程中文笔记目录
+# Machine learning tutorial Chinese notes directory
 
-- [第一周](markdown/week1.md)
+- [Week 1](markdown/week1.md)
 
-一、 引言(**Introduction**) 
+1. Introduction (**Introduction**)
 
-1.1 欢迎 
+1.1 welcome
 
-1.2 机器学习是什么？ 
+1.2 What is machine learning?
 
-1.3 监督学习 
+1.3 Supervised Learning
 
-1.4 无监督学习 
+1.4 Unsupervised Learning
 
-二、单变量线性回归(**Linear Regression with One Variable**) 
+2. Univariate linear regression (**Linear Regression with One Variable**)
 
-2.1 模型表示 
+2.1 Model Representation
 
-2.2 代价函数 
+2.2 Cost function
 
-2.3 代价函数的直观理解I 
+2.3 Intuitive understanding of cost function I
 
-2.4 代价函数的直观理解II 
+2.4 Intuitive Understanding of Cost Function II
 
-2.5 梯度下降 
+2.5 Gradient Descent
 
-2.6 梯度下降的直观理解 
+2.6 Intuitive understanding of gradient descent
 
-2.7 梯度下降的线性回归 
+2.7 Linear Regression with Gradient Descent
 
-2.8 接下来的内容 
+2.8 What's Next
 
-三、线性代数回顾(**Linear Algebra Review**) 
+3. Linear Algebra Review (**Linear Algebra Review**)
 
-3.1 矩阵和向量 
+3.1 Matrices and vectors
 
-3.2 加法和标量乘法 
+3.2 Addition and scalar multiplication
 
-3.3 矩阵向量乘法 
+3.3 Matrix-vector multiplication
 
-3.4 矩阵乘法 
+3.4 Matrix multiplication
 
-3.5 矩阵乘法的性质 
+3.5 Properties of matrix multiplication
 
-3.6 逆、转置
+3.6 Reverse, Transpose
 
-- [第二周](markdown/week2.md)
+- [Second week](markdown/week2.md)
 
-四、多变量线性回归(**Linear Regression with Multiple Variables**) 
+4. Multivariate linear regression (**Linear Regression with Multiple Variables**)
 
-4.1 多维特征 
+4.1 Multidimensional features
 
-4.2 多变量梯度下降 
+4.2 Multivariate Gradient Descent
 
-4.3 梯度下降法实践1-特征缩放 
+4.3 Gradient Descent Method Practice 1 - Feature Scaling
 
-4.4 梯度下降法实践2-学习率 
+4.4 Gradient descent method practice 2-learning rate
 
-4.5 特征和多项式回归 
+4.5 Eigen and polynomial regression
 
-4.6 正规方程 
+4.6 Normal equations
 
-4.7 正规方程及不可逆性（选修） 
+4.7 Normal equations and irreversibility (optional)
 
-五、Octave教程(**Octave Tutorial**) 
+5. Octave Tutorial (**Octave Tutorial**)
 
-5.1 基本操作 
+5.1 Basic operation
 
-5.2 移动数据 
+5.2 Mobile data
 
-5.3 计算数据 
+5.3 Calculation data
 
-5.4 绘图数据 
+5.4 Drawing data
 
-5.5 控制语句：**for**，**while**，**if**语句 
+5.5 Control statements: **for**, **while**, **if** statements
 
-5.6 向量化 88
+5.6 Vectorization 88
 
-5.7 工作和提交的编程练习 
+5.7 Working and submitting programming exercises
 
-- [第三周](markdown/week3.md)
+- [Week 3](markdown/week3.md)
 
-六、逻辑回归(**Logistic Regression**) 
+6. Logistic regression (**Logistic Regression**)
 
-6.1 分类问题 
+6.1 Classification problems
 
-6.2 假说表示 
+6.2 Hypothesis representation
 
-6.3 判定边界 
+6.3 Decision boundary
 
-6.4 代价函数 
+6.4 Cost Function
 
-6.5 简化的成本函数和梯度下降 
+6.5 Simplified cost functions and gradient descent
 
-6.6 高级优化 
+6.6 Advanced optimization
 
-6.7 多类别分类：一对多 
+6.7 Multi-class classification: one-vs-many
 
-七、正则化(**Regularization**) 
+7. Regularization (**Regularization**)
 
-7.1 过拟合的问题 
+7.1 The problem of overfitting
 
-7.2 代价函数 
+7.2 Cost Function
 
-7.3 正则化线性回归 
+7.3 Regularized Linear Regression
 
-7.4 正则化的逻辑回归模型 
+7.4 Regularized Logistic Regression Models
 
-- [第四周](markdown/week4.md)
+- [Week 4](markdown/week4.md)
 
-第八、神经网络：表述(**Neural Networks: Representation**) 
+Eighth, neural network: representation (**Neural Networks: Representation**)
 
-8.1 非线性假设 
+8.1 Nonlinear assumptions
 
-8.2 神经元和大脑 
+8.2 Neurons and the Brain
 
-8.3 模型表示1 
+8.3 Model Representation 1
 
-8.4 模型表示2 
+8.4 Model Representation 2
 
-8.5 样本和直观理解1 
+8.5 Samples and intuitions1
 
-8.6 样本和直观理解II 
+8.6 Samples and Intuitive Understanding II
 
-8.7 多类分类 
+8.7 Multiclass classification
 
-- [第五周](markdown/week5.md)
+- [Week 5](markdown/week5.md)
 
-九、神经网络的学习(**Neural Networks: Learning**) 
+Nine, neural network learning (**Neural Networks: Learning**)
 
-9.1 代价函数 
+9.1 Cost Function
 
-9.2 反向传播算法 
+9.2 Backpropagation Algorithm
 
-9.3 反向传播算法的直观理解 
+9.3 Intuitive Understanding of the Backpropagation Algorithm
 
-9.4 实现注意：展开参数 
+9.4 Implementation Note: Expand Parameters
 
-9.5 梯度检验 
+9.5 Gradient testing
 
-9.6 随机初始化 
+9.6 Random initialization
 
-9.7 综合起来 
+9.7 Putting it all together
 
-9.8 自主驾驶 
+9.8 Autonomous Driving
 
-- [第六周](markdown/week6.md)
+- [Week 6](markdown/week6.md)
 
-十、应用机器学习的建议(**Advice for Applying Machine Learning**) 
+10. Advice for Applying Machine Learning (**Advice for Applying Machine Learning**)
 
-10.1 决定下一步做什么 
+10.1 Deciding what to do next
 
-10.2 评估一个假设 
+10.2 Evaluating a hypothesis
 
-10.3 模型选择和交叉验证集 
+10.3 Model selection and cross-validation sets
 
-10.4 诊断偏差和方差 
+10.4 Diagnostic Bias and Variance
 
-10.5 正则化和偏差/方差 
+10.5 Regularization and bias/variance
 
-10.6 学习曲线 
+10.6 Learning Curve
 
-10.7 决定下一步做什么 
+10.7 Deciding what to do next
 
-十一、机器学习系统的设计(**Machine Learning System Design**) 
+11. Design of Machine Learning System (**Machine Learning System Design**)
 
-11.1 首先要做什么 
+11.1 What to do first
 
-11.2 误差分析 
+11.2 Error Analysis
 
-11.3 类偏斜的误差度量 
+11.3 Error Metrics for Class Skewness
 
-11.4 查准率和查全率之间的权衡 
+11.4 The Trade-Off Between Precision and Recall
 
-11.5 机器学习的数据 
+11.5 Data for Machine Learning
 
-[第7周](markdown/week7.md)
+[Week 7](markdown/week7.md)
 
-十二、支持向量机(**Support Vector Machines**) 
+12. Support Vector Machines (**Support Vector Machines**)
 
-12.1 优化目标 
+12.1 Optimization objectives
 
-12.2 大边界的直观理解 
+12.2 Intuitive Understanding of Large Boundaries
 
-12.3 数学背后的大边界分类（选修） 
+12.3 Large-boundary classification behind the mathematics (optional)
 
-12.4 核函数1 
+12.4 Kernel function 1
 
-12.5 核函数2 
+12.5 Kernel functions 2
 
-12.6 使用支持向量机 
+12.6 Using Support Vector Machines
 
-- [第八周](markdown/week8.md)
+- [Week 8](markdown/week8.md)
 
-十三、聚类(**Clustering**) 
+Thirteen, clustering (**Clustering**)
 
-13.1 无监督学习：简介 
+13.1 Unsupervised Learning: An Introduction
 
-13.2 K-均值算法 
+13.2 K-Means Algorithm
 
-13.3 优化目标 
+13.3 Optimization Objectives
 
-13.4 随机初始化
+13.4 Random initialization
 
-13.5 选择聚类数 
+13.5 Choosing the number of clusters
 
-十四、降维(**Dimensionality Reduction**) 
+14. Dimensionality Reduction (**Dimensionality Reduction**)
 
-14.1 动机一：数据压缩 
+14.1 Motivation One: Data Compression
 
-14.2 动机二：数据可视化 
+14.2 Motivation Two: Data Visualization
 
-14.3 主成分分析问题 
+14.3 Principal Component Analysis Problems
 
-14.4 主成分分析算法 
+14.4 Principal Component Analysis Algorithm
 
-14.5 选择主成分的数量 
+14.5 Choosing the number of principal components
 
-14.6 重建的压缩表示 
+14.6 Compressed Representation for Reconstruction
 
-14.7 主成分分析法的应用建议 
+14.7 Suggestions for the application of principal component analysis
 
-- [第九周](markdown/week9.md)
+- [Week 9](markdown/week9.md)
 
-十五、异常检测(**Anomaly Detection**) 
+15. Anomaly Detection (**Anomaly Detection**)
 
-15.1 问题的动机 
+15.1 Motivation for the question
 
-15.2 高斯分布 
+15.2 Gaussian distribution
 
-15.3 算法 
+15.3 Algorithms
 
-15.4 开发和评价一个异常检测系统 
+15.4 Developing and evaluating an anomaly detection system
 
-15.5 异常检测与监督学习对比 
+15.5 Anomaly Detection vs. Supervised Learning
 
-15.6 选择特征 
+15.6 Selecting features
 
-15.7 多元高斯分布（选修） 
+15.7 Multivariate Gaussian distribution (optional)
 
-15.8 使用多元高斯分布进行异常检测（选修） 
+15.8 Anomaly Detection Using Multivariate Gaussian Distributions (Optional)
 
-十六、推荐系统(**Recommender Systems**) 
+16. Recommender Systems (**Recommender Systems**)
 
-16.1 问题形式化 
+16.1 Formalizing the problem
 
-16.2 基于内容的推荐系统 
+16.2 Content-Based Recommender Systems
 
-16.3 协同过滤 
+16.3 Collaborative filtering
 
-16.4 协同过滤算法 
+16.4 Collaborative filtering algorithm
 
-16.5 向量化：低秩矩阵分解 
+16.5 Vectorization: Low-rank matrix factorization
 
-16.6 推行工作上的细节：均值归一化 
+16.6 Implementation Details: Mean Normalization
 
-- [第十周](markdown/week10.md)
+- [Week 10](markdown/week10.md)
 
-十七、大规模机器学习(**Large Scale Machine Learning**) 
+Seventeen, large-scale machine learning (**Large Scale Machine Learning**)
 
-17.1 大型数据集的学习 
+17.1 Learning from Large Datasets
 
-17.2 随机梯度下降法 
+17.2 Stochastic Gradient Descent
 
-17.3 小批量梯度下降 
+17.3 Mini-batch gradient descent
 
-17.4 随机梯度下降收敛 
+17.4 Stochastic Gradient Descent Convergence
 
-17.5 在线学习 
+17.5 Online Learning
 
-17.6 映射化简和数据并行 
+17.6 Map reduction and data parallelism
 
-十八、应用实例：图片文字识别(**Application Example: Photo OCR**) 
+18. Application Example: Image Text Recognition (**Application Example: Photo OCR**)
 
-18.1 问题描述和流程图
+20.1 Problem description and flowchart
 
-18.2 滑动窗口 
+18.2 Sliding windows
 
-18.3 获取大量数据和人工数据 
+18.3 Acquiring large amounts of data and artificial data
 
-18.4 上限分析：哪部分管道的接下去做 
+18.4 Upper limit analysis: which part of the pipeline to do next
 
-十九、总结(**Conclusion**) 
+19. Summary (**Conclusion**)
 
-19.1 总结和致谢 
+19.1 Summary and Acknowledgments
 
 ------
-
-
-
-**机器学习qq群：865189078（我们有8个群，加过一个就不需要加了）** 
 
